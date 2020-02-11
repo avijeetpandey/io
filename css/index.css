@@ -4,7 +4,7 @@
     margin-top:10px;
 }
 
-img {
+.logo-img{
     width: auto;
     height: 50px;
 }
@@ -34,7 +34,6 @@ img {
 
 #subtitle{
     font-family:'ABeeZee', sans-serif;
-    font-weight: bold;
     color:rgb(78, 74, 74);
 
 }
@@ -42,3 +41,14 @@ img {
 section{
     margin-top:20px;
 }
+
+#myImage{
+    width:200px;
+    height:200px;
+
+}
+
+.divider{
+    height:60px;
+}
+
