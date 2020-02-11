@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Inconsolata&display=swap');
 
 .container{
-    margin-top:30px;
+    margin-top:10px;
 }
 
 img {
@@ -34,7 +34,7 @@ img {
 
 #subtitle{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    letter-spacing: 1.1px;
+   
     font-weight: bold;
     color:rgb(78, 74, 74);
 
