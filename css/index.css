@@ -78,6 +78,11 @@ background-image:linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 /* line-height: 0.5; */
 }
 
+
+p{
+    line-height: 0.3;
+}
+
 h2{
     color:white;
     word-spacing: 8px;
