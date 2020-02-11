@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=ABeeZee|Baloo|Bubblegum+Sans|Inconsolata&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai&display=swap');
+
 .container{
     margin-top:10px;
 }
@@ -31,7 +34,7 @@
     font-family: 'Bubblegum Sans', cursive;
 }
 
-#subtitle,h3{
+#subtitle,h2{
     font-family:'ABeeZee', sans-serif;
     color:rgb(78, 74, 74);
 
@@ -62,12 +65,23 @@ section{
 }
 
 .more-info{
+    color:white;
+    font-family: 'Arima Madurai', cursive;
+    font-size:16px;
+    letter-spacing: 1.1px;
     padding-top:150px;
+    padding-bottom:50px;
     margin-top:50px;
     margin-top:-4px;
-    background-color: rgb(17, 149, 226);
+    background-color: #20bf55;
+background-image:linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+line-height: 0.5;
 }
 
-h3{
+h2{
     color:white;
+
+    word-spacing: 8px;
 }
+
+
