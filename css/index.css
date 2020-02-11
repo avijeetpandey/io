@@ -1,4 +1,45 @@
-img{
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Inconsolata&display=swap');
+
+.container{
+    margin-top:30px;
+}
+
+img {
     width: auto;
-    height:50px;
+    height: 50px;
+}
+
+.btn {
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    padding: 10px;
+    width: 120px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+
+#about {
+    color: rgb(65, 60, 60);
+    font-size: 20px;
+
+}
+
+#heading{
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+#subtitle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 1.1px;
+    font-weight: bold;
+    color:rgb(78, 74, 74);
+
+}
+
+section{
+    margin-top:20px;
 }
