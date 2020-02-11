@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=ABeeZee|Bubblegum+Sans|Inconsolata&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Baloo|Bubblegum+Sans|Inconsolata&display=swap');
 .container{
     margin-top:10px;
 }
@@ -32,7 +31,7 @@
     font-family: 'Bubblegum Sans', cursive;
 }
 
-#subtitle{
+#subtitle,h3{
     font-family:'ABeeZee', sans-serif;
     color:rgb(78, 74, 74);
 
@@ -54,4 +53,21 @@ section{
 
 .image-footer{
     margin-top:180px;
+}
+
+
+#color{
+    color:red;
+    font-family: 'Baloo', cursive;
+}
+
+.more-info{
+    padding-top:150px;
+    margin-top:50px;
+    margin-top:-4px;
+    background-color: rgb(17, 149, 226);
+}
+
+h3{
+    color:white;
 }
