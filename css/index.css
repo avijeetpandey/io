@@ -118,3 +118,7 @@ h2 {
     font-size:18px;
     color:rgb(189, 22, 255);
 }
+
+li{
+    list-style-type: none;
+}
