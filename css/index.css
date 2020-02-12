@@ -127,3 +127,18 @@ li{
     font-size:18px ;
 }
 
+.skills{
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    height:500px;
+    /* background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%); */
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+#heading1{
+    padding-top:50px;
+    color:white;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 56px;
+    letter-spacing: 1.5px;
+}
