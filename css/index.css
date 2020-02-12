@@ -2,11 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Arima+Madurai&display=swap');
 
-.container{
-    margin-top:10px;
+.container {
+    margin-top: 10px;
 }
 
-.logo-img{
+.logo-img {
     width: auto;
     height: 50px;
 }
@@ -27,62 +27,79 @@
 #about {
     color: rgb(65, 60, 60);
     font-size: 20px;
-
+    margin-left: 30px;
 }
 
-#heading{
+#heading {
     font-family: 'Bubblegum Sans', cursive;
 }
 
-#subtitle,h2{
-    font-family:'ABeeZee', sans-serif;
-    color:rgb(78, 74, 74);
+#subtitle,
+h2 {
+    font-family: 'ABeeZee', sans-serif;
+    color: rgb(78, 74, 74);
 
 }
 
-section{
-    margin-top:20px;
+section {
+    margin-top: 20px;
 }
 
-#myImage{
-    width:200px;
-    height:190px;
+#myImage {
+    width: 200px;
+    height: 190px;
 
 }
 
-.divider{
-    height:80px;
+.divider {
+    height: 80px;
 }
 
-.image-footer{
-    margin-top:180px;
+.image-footer {
+    margin-top: 180px;
 }
 
 
-#color{
-    color:red;
+#color {
+    color: red;
     font-family: 'Baloo', cursive;
 }
 
-.more-info{
-    color:white;
+.more-info {
+    color: white;
     font-family: 'Arima Madurai', cursive;
-    font-size:16px;
+    font-size: 16px;
     letter-spacing: 1.1px;
-    padding-top:150px;
-    padding-bottom:50px;
-    margin-top:50px;
-    margin-top:-4px;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    margin-top: 40px;
+    margin-top: -4px;
     background-color: #20bf55;
-background-image:linear-gradient(315deg, #20bf55 0%, #01baef 74%);
-/* line-height: 0.5; */
+    background-image: linear-gradient(315deg, #3182ce 0%, #01baef 74%);
+    /* line-height: 0.5; */
+    height: 700px;
 }
 
 
 
-h2{
-    color:white;
+h2 {
+    color: white;
     word-spacing: 8px;
 }
 
+.fas {
+    color: rgb(189, 22, 255);
+    font-size: 80px;
+}
 
+
+.card {
+    padding: 50px;
+    border-radius: 16px;
+
+}
+
+
+.card-group {
+    margin-top: -15%;
+}
