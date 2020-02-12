@@ -103,3 +103,8 @@ h2 {
 .card-group {
     margin-top: -15%;
 }
+
+.card-title {
+    margin-top: 18px;
+    font-family: 'Baloo', cursive;
+}
